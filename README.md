@@ -62,9 +62,9 @@ http://localhost:8501
 
 ## 📊 Gráficos
 
-Gráfico 1-(images/Media_temp_por_dispositivo.png)
-Gráfico 2-(images/Leituras_por_hora_do_dia.png")
-Gráfico 3-(images/Temp_max_e_min_por_dia.png)
+[Gráfico 1-](images/Media_temp_por_dispositivo.png)
+[Gráfico 2-](images/Leituras_por_hora_do_dia.png")
+[Gráfico 3-](images/Temp_max_e_min_por_dia.png)
 
 
 ## 📋 Views SQL Criadas
